@@ -1,0 +1,9 @@
+export { default as cr1 } from "../../assets/products/camera-solarEnergy/img1.webp";
+export { default as cr2 } from "../../assets/products/camera-solarEnergy/img2.webp";
+export { default as cr3 } from "../../assets/products/camera-solarEnergy/img3.webp";
+export { default as cr4 } from "../../assets/products/camera-solarEnergy/img4.webp";
+export { default as cr5 } from "../../assets/products/camera-solarEnergy/img5.webp";
+export { default as cr6 } from "../../assets/products/camera-solarEnergy/img6.webp";
+export { default as cr7 } from "../../assets/products/camera-solarEnergy/img7.jpg";
+export { default as cr8 } from "../../assets/products/camera-solarEnergy/img8.webp";
+export { default as cr9 } from "../../assets/products/camera-solarEnergy/img9.webp";
